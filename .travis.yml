@@ -1,5 +1,8 @@
 language: java
 jdk:
   - oraclejdk8
+<<<<<<< HEAD
 HIDDEN TRAP
   - chmod +x mvnw
+=======
+>>>>>>> 5efe8f8ed454760c3504766b226ebb3102ce7c69
